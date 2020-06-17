@@ -3,10 +3,45 @@ layout: page
 title: Billy Schwab
 ---
 
-## <a id="slide"></a>Portfolio
+# <a id="slide"></a>Portfolio
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTYxCI33ZiEtTsgvVF7uXJKzlkn3Bpdvy0svichCZ7K-gZTNWUvC1otETOwKYhBYgpG1FwWF0_tlxwC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+youtube videos here
 
-## <a id="resume"></a>Resume
+# <a id="resume"></a>Resume
 
-some text here
+##### *May 2019 to April 2020*
+
+#### Jewel 105   
+
+- Morning Show co-host with:
+  - Denyse Sibley (April 2019 - November 2019)
+  - Moe Dunn (November 2019 - February 2020)
+  - Barry Rogers (February 2020 - April 2020)
+- Social media coordinator
+- Traffic and weather Director
+- Show preparation
+- Unique content producer
+- Board operator
+- Promotions and promotional appearances
+
+**Hot Country 103.5**  
+
+- Traffic coordinator
+- Promotional photography
+- Talent wrangler and Green Room runner
+- Stunt caller
+- Board operation for remotes
+- Loaded weekend syndicated programming
+
+
+# <a id="skills"></a>Skills
+
+- Wide Orbit
+- VoxPro
+- Adobe Audition
+
+
+
+# <a id="education"></a>Education
+
+2020 Radio Television Journalism, NSCC
