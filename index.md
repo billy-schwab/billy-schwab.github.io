@@ -3,13 +3,13 @@ layout: page
 title: Billy Schwab
 ---
 
-# <a id="slide"></a>Portfolio
+# <i class="icon-youtube-play"></i><a id="slide"></a> Portfolio
 
 youtube videos here
 
-# <a id="experience"></a>Experience
+# <i class="icon-mic"></i><a id="education"><a id="experience"></a> Experience
 
-##### *May 2019 to April 2020*
+#### *May 2019 to April 2020*
 
 #### Jewel 105 (Evanov Radio Group)   
 
@@ -34,14 +34,19 @@ youtube videos here
 - Weekend syndicated programming
 
 
-# <a id="skills"></a>Skills
+# <i class="icon-desktop"></i><a id="skills"></a> Skills
 
 - Wide Orbit
 - VoxPro
 - Adobe Audition
+- Burli
+- Music Master
+- iMedia Touch
+- Wordpress
+- SoCast
 
+# <i class="icon-graduation-cap"></i><a id="education"></a> Education
 
+#### *2020*
 
-# <a id="education"></a>Education
-
-2020 Radio Television Journalism, NSCC
+Radio Television Journalism Diploma, NSCC
