@@ -14,7 +14,7 @@ youtube videos here
 #### Jewel 105 (Evanov Radio Group)   
 
 - Morning Show co-host with:
-  - Denyse Sibley (April 2019 - November 2019)
+  - Denyse Sibley (May 2019 - November 2019)
   - Moe Dunn (November 2019 - February 2020)
   - Barry Rogers (February 2020 - April 2020)
 - Social media coordinator
