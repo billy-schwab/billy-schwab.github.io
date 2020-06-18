@@ -7,11 +7,11 @@ title: Billy Schwab
 
 youtube videos here
 
-# <a id="resume"></a>Resume
+# <a id="experience"></a>Experience
 
 ##### *May 2019 to April 2020*
 
-#### Jewel 105   
+#### Jewel 105 (Evanov Radio Group)   
 
 - Morning Show co-host with:
   - Denyse Sibley (April 2019 - November 2019)
@@ -24,14 +24,14 @@ youtube videos here
 - Board operator
 - Promotions and promotional appearances
 
-**Hot Country 103.5**  
+#### Hot Country 103.5 (Evanov Radio Group)
 
 - Traffic coordinator
 - Promotional photography
 - Talent wrangler and Green Room runner
 - Stunt caller
 - Board operation for remotes
-- Loaded weekend syndicated programming
+- Weekend syndicated programming
 
 
 # <a id="skills"></a>Skills

@@ -1,13 +1,14 @@
 
 # Site settings
 title: Billy Schwab
-subtitle1: Habitual post hitter.
-subtitle2: Lower Deck trivia team ringer.
+subtitle1: Top NSCC Radio grad
+subtitle2: Lower Deck trivia team ringer
+subtitle3: Habitual post hitter
 #email: youremailaddress@gmail.com
 #description: The Jekyll version of the Massively theme by HTML5 UP.
 #baseurl: "/massively-jekyll-theme" # the subpath of your site, e.g. /blog
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://research-reuse.github.io/" # the base hostname & protocol for your site
+url: "https://billy-schwab.github.io/" # the base hostname & protocol for your site
 
 
 # Build settings
@@ -18,9 +19,10 @@ sass:
   sass_dir: _sass
 
 social_links:
-    twitter: hashtag/CDCF2019
-    github: research-reuse
-    rss: rss
+  #  twitter: hashtag/CDCF2019
+  #  github: research-reuse
+  #  rss: rss
+    email: william.hc.schwab@gmail.com
 
 include:
   - _pages
