@@ -5,9 +5,13 @@ title: Billy Schwab
 
 # <i class="icon-youtube-play"></i><a id="slide"></a> Portfolio
 
-youtube videos here
+<iframe width="256" height="144" src="https://www.youtube-nocookie.com/embed/HG_mm2fCqbA" frameborder="3" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="256" height="144" src="https://www.youtube-nocookie.com/embed/uxzfb4wRwrM?start=15" frameborder="3" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="256" height="144" src="https://www.youtube.com/embed/c5ac6OM_LS4" frameborder="3" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="256" height="144" src="https://www.youtube.com/embed/iVHDVkdBEeo" frameborder="3" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-# <i class="icon-mic"></i><a id="education"><a id="experience"></a> Experience
+
+# <i class="icon-mic"></i><a id="experience"></a> Experience
 
 #### *May 2019 to April 2020*
 
@@ -18,7 +22,7 @@ youtube videos here
   - Moe Dunn (November 2019 - February 2020)
   - Barry Rogers (February 2020 - April 2020)
 - Social media coordinator
-- Traffic and weather Director
+- Traffic and weather director
 - Show preparation
 - Unique content producer
 - Board operator
@@ -50,3 +54,7 @@ youtube videos here
 #### *2020*
 
 Radio Television Journalism Diploma, NSCC
+
+# <i class="icon-mail-squared"></i><a id="contact"></a> Contact
+
+email: <a href="mailto:william.hc.schwab@gmail.com">william.hc.schwab@gmail.com</a>
