@@ -13,7 +13,7 @@ title: Billy Schwab
 
 # <i class="icon-mic"></i><a id="experience"></a> Experience
 
-#### *May 2019 to April 2020*
+#### *May 2019 to present*
 
 #### Jewel 105 (Evanov Radio Group)   
 
